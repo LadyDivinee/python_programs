@@ -2,3 +2,5 @@
 for numbers_0_to_100 in range (0, 101):
 #checking
     if numbers_0_to_100 % 2 == 0:
+#print the even numbers
+        print(numbers_0_to_100)
