@@ -4,3 +4,6 @@ num2 = float(input("Enter the second number:"))
 #check if num1 is smaller
 if num1 < num2:
     print("First number is smaller.")
+#if not
+else:
+    print("Second number is smaller.")
