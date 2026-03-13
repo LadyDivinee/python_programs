@@ -1,2 +1,6 @@
 #fixed string
 name = "dibayn.mngs"
+#translation table
+lower_case = "abcdefghijklmnopqrstuvwxyz"
+upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+translation_table = str.maketrans(lower_case, upper_case)
