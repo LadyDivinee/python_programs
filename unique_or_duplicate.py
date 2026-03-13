@@ -12,3 +12,7 @@ while True:
         else:
             print("Unique")
         input_numbers.append(numbers)
+#except ValueError for decimal numbers
+    except ValueError:
+        print("Only integers are allowed.")
+        break
