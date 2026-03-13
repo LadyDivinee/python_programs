@@ -8,4 +8,5 @@ if name [index:] == suffix:
     just_name = name[:index]
 else:
     just_name = name
-    
+#print the output
+print(just_name)
