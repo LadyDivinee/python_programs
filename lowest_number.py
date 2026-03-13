@@ -10,3 +10,6 @@ while True:
     except ValueError:
         print("Only integers are allowed.")
         break
+#to print lowest number
+if numbers:
+    print("The lowest number is: ", min(numbers))
