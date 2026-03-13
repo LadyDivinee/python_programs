@@ -12,4 +12,4 @@ while True:
         break
 #to print lowest number
 if numbers:
-    print("The lowest number is: ", min(numbers))
+    print("The lowest number is: ", min(input_numbers))
