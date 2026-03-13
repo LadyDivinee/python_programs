@@ -10,4 +10,6 @@ while True:
     except ValueError:
         print("Only integers are allowed.")
         break
-
+#print the highest number
+if numbers:
+    print("The highest number is: ", max(input_numbers))
