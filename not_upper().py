@@ -4,3 +4,6 @@ name = "dibayn.mngs"
 lower_case = "abcdefghijklmnopqrstuvwxyz"
 upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 translation_table = str.maketrans(lower_case, upper_case)
+#capitalizing letters
+name_in_capitalized = name.translate(translation_table)
+
