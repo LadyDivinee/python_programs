@@ -1,2 +1,0 @@
-#fixed string
-name = "dibayn"
