@@ -10,3 +10,6 @@ while True:
     except ValueError:
         print("Only integers are allowed.")
         break
+#print numbers in descending order
+if numbers:
+    print("The numbers in descending order are ", sorted(input_numbers, reverse=True))
