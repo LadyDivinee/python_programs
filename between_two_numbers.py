@@ -4,3 +4,6 @@ num_2 = int(input("Enter second number: "))
 #check the range of the numbers
 smaller = min(num_1, num_2)
 larger = max(num_1, num_2)
+#print the result
+for num in range(smaller +1, larger):
+    print(num)
