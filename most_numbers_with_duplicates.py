@@ -11,4 +11,6 @@ while True:
     except ValueError:
         print("Only integers allowed.")
         break
-
+#print result
+if numbers:
+    print("Most duplicated number:", Counter(numbers).most_common(1)[0][0])
