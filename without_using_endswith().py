@@ -1,4 +1,4 @@
 #strings
-word = "unsatisfied"
-prefix = "un"
+word = "helpful"
+suffix = "ful"
 
