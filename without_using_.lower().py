@@ -1,0 +1,2 @@
+#string
+word = "DIBAYN MAANGAS"
