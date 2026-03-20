@@ -1,0 +1,3 @@
+#string
+name = "DIBAYN MAANGAS"
+
